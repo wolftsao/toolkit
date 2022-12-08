@@ -1,3 +1,3 @@
-module gitmub.com/wolftsao/toolkit/v2
+module github.com/wolftsao/toolkit/v2
 
 go 1.19
